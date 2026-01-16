@@ -112,7 +112,7 @@ En ambos casos, el cartel ofrece **dos opciones**:
 - No se modifica ningún registro.
 - Se cancela la operación.
 - No se inicia el armado.
-
+- Se refresca la tabla de consolidados para que se desaparezcan los trabajados
 ---
 
 ## 7. Cancelación del armado
